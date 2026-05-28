@@ -32,3 +32,9 @@ git status
 ```sh
 git log
 ```
+
+## -- Supaya nanti bisa cloning
+
+```sh
+git clone url_repo_yang_tadi_digunakan
+```
