@@ -38,3 +38,13 @@ git log
 ```sh
 git clone url_repo_yang_tadi_digunakan
 ```
+
+## -- Tentang Branching
+
+```sh
+# Kita ngecek ada di branch yang mana
+git branch
+
+# Kita pengen bikin branch yang baru (feature)
+git checkout -b nama-branch-baru
+```
